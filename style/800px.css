@@ -1,0 +1,18 @@
+@media(min-width: 800px) {
+    .container {
+
+    }
+
+    header {
+        margin-left: 10px;
+        flex-direction: row;
+    }
+
+    header h1 {
+    }
+    header nav {
+        margin-top: 30px;
+        width: 50%;
+        
+    }
+}

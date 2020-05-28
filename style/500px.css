@@ -1,0 +1,6 @@
+@media(min-width: 500px) { 
+    header nav {
+    
+        font-size: 2rem;
+    }
+}
